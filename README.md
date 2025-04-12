@@ -20,6 +20,14 @@
 
 [يوسف حُميد](https://behance.net/yosfgfx)
 
+## شكر وتقدير
+
+أود أن أتقدم بالشكر الجزيل لكل من:
+- Dev Valladares
+- Trudy Painter
+
+لمساهمتهم القيمة في هذا المشروع.
+
 ## الترخيص
 
 هذا المشروع مرخص تحت [MIT License](LICENSE)
